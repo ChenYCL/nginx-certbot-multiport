@@ -1,4 +1,5 @@
 # Nginx Certbot Multiport Setup
+[![简体中文](https://img.shields.io/badge/语言-简体中文-red.svg)](README_ZH.md)
 
 This project provides a simple shell script to quickly set up an Nginx reverse proxy with automatic HTTPS configuration using Let's Encrypt. It supports reverse proxy configuration for multiple ports.
 
