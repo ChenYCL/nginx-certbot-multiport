@@ -1,4 +1,5 @@
 # Nginx Certbot Multiport Setup
+[![English](https://img.shields.io/badge/language-English-blue.svg)](README.md)
 
 这个项目提供了一个简单的 shell 脚本，用于快速设置 Nginx 反向代理，并使用 Let's Encrypt 自动配置 HTTPS。它支持多个端口的反向代理配置。
 
